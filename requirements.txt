@@ -1,0 +1,13 @@
+pyannote.audio==4.0.4 
+groq==1.0.0 
+livekit==1.1.2 
+livekit-api==1.1.0 
+supabase==2.28.0 
+numpy==2.4.2 
+pandas==3.0.1 
+scikit-learn==1.8.0 
+python-dotenv==1.0.0 
+flask==3.0.0 
+flask-cors==4.0.0 
+pydub==0.25.1 
+requests==2.32.5 
