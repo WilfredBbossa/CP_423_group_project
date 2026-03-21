@@ -57,7 +57,7 @@ def allowed_file(filename: str) -> bool:
 
 # ── Webhook────────────────────────────
 
-N8N_WEBHOOK_URL = "http://localhost:5678/webhook-test/clinical-pipeline"
+N8N_WEBHOOK_URL = "http://localhost:5678/webhook/clinical-pipeline"
 
 def notify_n8n(transcript_path: str, audio_path: str, segment_count: int):
     """
